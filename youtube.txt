@@ -1,0 +1,31 @@
+Links de los videos 
+
+Erdös-Renyi
+
+100 nodos: https://youtu.be/q8yyzTEdQ88
+500 nodos: https://youtube.com/shorts/85ESRcM2AYA?feature=share
+
+Gilbert
+
+100 nodos: https://youtu.be/3vyM-MjlJUo
+500 nodos: https://youtu.be/u55wzJGRU68
+
+Geográfico simple
+
+100 nodos: https://youtube.com/shorts/uL5bLsgBcX8?feature=share
+500 nodos: https://youtu.be/CYw8BRcS370
+
+Barabasi–Albert
+
+100 nodos: https://youtube.com/shorts/YWpMJJb2JV0?feature=share
+500 nodos: https://youtube.com/shorts/hYPdbxpXYvw?feature=share
+
+Dorogovtsev–Mendes
+
+100 nodos: https://youtube.com/shorts/uX8AjnfRbcs?feature=share
+500 nodos: https://youtube.com/shorts/pcHtjIt7J9k?feature=share
+
+Malla
+
+100 nodos: https://youtube.com/shorts/911aE_gaClk?feature=share
+500 nodos: 
